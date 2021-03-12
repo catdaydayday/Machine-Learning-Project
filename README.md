@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-#### These are the assignment projects from my "Business Intelligence Techniques and  Applications" and "Data Mining for Managers" courses.
+### These are the assignment projects from my "Business Intelligence Techniques and  Applications" and "Data Mining for Managers" courses.
 
 ##### Wine Clustering (Clustering Analysis): use a Wine data set to cluster different types of wines.
 ##### Quant Fund Prediction (Regression Analysis):use statistical methods (regressions & machine learning) to build a strong factor out of basic ones.
